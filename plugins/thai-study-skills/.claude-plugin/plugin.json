@@ -1,0 +1,11 @@
+{
+  "name": "thai-study-skills",
+  "version": "1.0.0",
+  "description": "ชุดสกิลภาษาไทยสำหรับนักศึกษา: ติวจับเวลา + ทวนข้อผิด (drill), ทำชีทสอบ (cheatsheet), ถามก่อนทำ (ask-first), ปิดแชทแล้วทำต่อ (handoff)",
+  "author": {
+    "name": "Korranut Pamittasil",
+    "url": "https://github.com/Korranut25412"
+  },
+  "license": "MIT",
+  "keywords": ["thai", "study", "exam", "spaced-repetition", "students"]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "claude-skills-th",
+  "owner": {
+    "name": "Korranut Pamittasil",
+    "url": "https://github.com/Korranut25412"
+  },
+  "metadata": {
+    "description": "Thai-language Claude Code skills for university students: timed exam drills with spaced repetition, exam cheat sheets, ask-before-doing, and chat handoff."
+  },
+  "plugins": [
+    {
+      "name": "thai-study-skills",
+      "source": "./plugins/thai-study-skills",
+      "description": "ชุดสกิลภาษาไทยสำหรับนักศึกษา: ติวจับเวลา + ทวนข้อผิด, ทำชีทสอบ, ถามก่อนทำ, ปิดแชทแล้วทำต่อ"
+    }
+  ]
+}
